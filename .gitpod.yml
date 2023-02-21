@@ -1,5 +1,4 @@
-image:
-  file: BrycensRanch/gitpod-enhanced
+image: ghcr.io/brycensranch/gitpod-enhanced:latest
 
 ports:
   - port: 3000-5000
